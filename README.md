@@ -3,7 +3,7 @@ Data projects to learn SQL/ Python to do useful things
 
 **Project 1:** Medicare Data_Medicare_Claims_Errors
 
-The objective of this analysis was to identify the types of providers that struggle the most with filing claims.
+The objective of this analysis was to identify the types of providers that struggle the most with filing claims and what Healthtech providers in the claims and practice management industries should prioritize to resolve provider pain points.
 
 Results: 
 
